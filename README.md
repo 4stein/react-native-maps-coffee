@@ -6,7 +6,7 @@ React-Native CLI, react-native-maps, @react-native-community/geolocation, Google
 
 To start application use scripts
 
-### `yarn`
+#### `yarn`
 
 ### `yarn start`
 
