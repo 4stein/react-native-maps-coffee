@@ -8,6 +8,6 @@ To start application use scripts
 
 #### `yarn`
 
-### `yarn start`
+#### `yarn start`
 
-### `yarn android`
+#### `yarn android`
